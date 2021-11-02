@@ -1,0 +1,3 @@
+C:/Users/kaina/CLionProjects/BlockChain/cmake-build-debug/CMakeFiles/BlockChain.dir
+C:/Users/kaina/CLionProjects/BlockChain/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kaina/CLionProjects/BlockChain/cmake-build-debug/CMakeFiles/rebuild_cache.dir
